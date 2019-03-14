@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+body {
+  background-color: #00096E;
+  color: #d4d4d4;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 6vw;
+  text-align: center;
+}
+body #container {
+  margin: 10vh auto;
+}
+body #container #title {
+  color: #bcbcbc;
+  font-size: 7vw;
+  font-weight: bold;
+}
+body #container #city {
+  margin-bottom: 20px;
+}
+body #container .hide {
+  display: none;
+}
+body #container .go p {
+  display: inline;
+}
+body #container .go button {
+  background-color: transparent;
+  border: 3px dotted #bcbcbc;
+  color: #d4d4d4;
+  cursor: pointer;
+  font-size: 6vw;
+}
+body #container .go button:hover {
+  opacity: 0.5;
+}
+body #icon-weather, body #desc {
+  margin: 20px auto;
+}
+
+img {
+  width: 7vw;
+}

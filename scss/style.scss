@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+
+$white: #d4d4d4;
+$silver: #bcbcbc;
+$fontSizeParagraph: 6vw;
+
+body {
+  background-color: #00096E;
+  color: $white;
+  font-family: 'Quicksand', sans-serif;
+  font-size: $fontSizeParagraph;
+  text-align: center;
+  #container {
+    margin: 10vh auto;
+    #title {
+      color: $silver;
+      font-size: 7vw;
+      font-weight: bold;
+      }
+    #city { margin-bottom: 20px; }
+    .hide { display: none; }
+    .go {
+      p { display: inline; }
+      button {
+        background-color: transparent;
+        border: 3px dotted $silver;
+        color: $white;
+        cursor: pointer;
+        font-size: $fontSizeParagraph;
+        &:hover { opacity: 0.5; }
+        }
+      }
+    }
+  #icon-weather, #desc { margin: 20px auto; }
+  }
+
+img { width: 7vw; }
