@@ -14,8 +14,8 @@ Users can visualize the weather based on their current geolocation. A button swi
 </ul>
 <h2>Where to find the project...</h2>
 <p>
-Click <a href="https://s.codepen.io/vinniezappa/debug/YqEQwG/vWARwaJZYEEk" target="_blank"> here</a>
-or in the image below <br/><br/><a href="https://s.codepen.io/vinniezappa/debug/YqEQwG/vWARwaJZYEEk" target="_blank">
+Click <a href="https://s.codepen.io/vinniezappa/full/YqEQwG/vWARwaJZYEEk" target="_blank"> here</a>
+or in the image below <br/><br/><a href="https://s.codepen.io/vinniezappa/full/YqEQwG/vWARwaJZYEEk" target="_blank">
 <img src="https://www.dropbox.com/s/3fwodzbku5x3408/03-local-weather-JS.jpg?raw=1">
 </a>
 </p>
